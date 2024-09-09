@@ -2,5 +2,8 @@
 
 this is my first repository!
 
-##  Auth
+##  Authors
+
+- R. Promkam
+- w. karnsasom
 
